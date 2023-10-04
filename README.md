@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is George and I come from Greece 
 
 <!--
 **geoge31/geoge31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
