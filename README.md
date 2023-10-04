@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gg31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gg31" height="30" width="40" /></a>
-<a href="https://fb.com/γιωργος γεραμουτσος" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="γιωργος γεραμουτσος" height="30" width="40" /></a>
+<a href="https://www.facebook.com/gg310899/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="γιωργος γεραμουτσος" height="30" width="40" /></a>
 <a href="https://instagram.com/giorgos_gts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giorgos_gts" height="30" width="40" /></a>
 </p>
 
