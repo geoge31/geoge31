@@ -25,5 +25,5 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferre"><img src"https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" widt="40" height="40"></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferre"> <img src"https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" widt="40" height="40"/ ></a>
 </p>
