@@ -31,13 +31,6 @@
 
 <h4> Repos worth taking a look :</h4>
 <ul>
-  <li><a href="https://github.com/geoge31/DiGiHip_Application" target="_blank">Thesis Project</a></li>
+  <li><a href="https://github.com/geoge31/DiGiHip_Application">Thesis Project</a></li>
+  <li><a href="https://github.com/geoge31/Data-Structures/tree/main/Project_Among-Us">Among Us Game</a>- C Implementation</li>
 </ul>
-
-
-<script>
-document.querySelectorAll('a').forEach(link => {
-    link.setAttribute('target', '_blank');
-    link.setAttribute('rel', 'noopener noreferrer');
-});
-</script>
