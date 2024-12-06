@@ -33,3 +33,11 @@
 <ul>
   <li><a href="https://github.com/geoge31/DiGiHip_Application" target="_blank">Thesis Project</a></li>
 </ul>
+
+
+<script>
+document.querySelectorAll('a').forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+});
+</script>
