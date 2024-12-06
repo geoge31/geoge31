@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋, I'm George</h1>
-<h3 align="center">I'm a Bachelor Student at Computer's Science Department in University of Crete ;)</h3>
+<h1 align="center">Hello 👋, I'm Giorgos</h1>
+<h3 align="center">Graduated Student at Computer's Science Department, University of Crete</h3>
+<h3 align="center"><a href="https://geoge31.github.io/">Here</a> you can browse my page on github</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <h3 align="left">Connect with me:</h3>
@@ -25,7 +26,10 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-  <a href="https://nextjs.org/" target="_blank" rel="noreferre"> <img src"https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" widt="40" height="40"/ ></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferre"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" widt="40" height="40"/ ></a>
 </p>
 
 <h4> Repos worth taking a look :</h4>
+<ul>
+  <li><a href="https://github.com/geoge31/DiGiHip_Application" target="_blank">Thesis Project</a></li>
+</ul>
