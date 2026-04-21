@@ -2,15 +2,24 @@
 <h3 align="center">Graduated Student at Computer's Science Department, University of Crete</h3>
 <h3 align="center"><a href="https://geoge31.github.io/">Here</a> you can browse my page on github</h3>
 <h3 align="center"> Click <a href="https://github.com/geoge31/assets/blob/main/cv.pdf">here </a>to preview/donwload my cv</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gg31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gg31" height="30" width="40" /></a>
-<a href="https://www.facebook.com/gg310899/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="γιωργος γεραμουτσος" height="30" width="40" /></a>
-<a href="https://instagram.com/giorgos_gts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="giorgos_gts" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/giorgos-geramoutsos-0a7197202/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="giorgos_gts" height="30" width="40" /></a> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/geoge31/pictures/main/TNCR-graphics-KB-2.gif" width="400" />
 </p>
+
+<div>
+  <h3 align="center">Connect with me:</h3>
+  <table align="center">
+    <tr>
+      <td><a href="https://twitter.com/gg31"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"   height="30" width="30"></a></td>
+      <td><a href="https://www.facebook.com/gg310899/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="30"></a></td>
+      <td><a href="https://instagram.com/giorgos_gts"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="30"></a></td>
+      <td><a href="https://www.linkedin.com/in/giorgos-geramoutsos-0a7197202/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="30" width="30"></a></td>
+    </tr>
+  </table>
+</div>
+
+
+
 <h3>Contact me: <br> <a href="mailto:gioge31@gmail.com"> gioge31@gmail.com </a> </h3> 
 
 
