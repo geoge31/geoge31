@@ -1,10 +1,13 @@
-<h1 align="center">Hello 👋, I'm Giorgos</h1>
-<h3 align="center">Graduated Student at Computer's Science Department, University of Crete</h3>
-<h3 align="center"><a href="https://geoge31.github.io/">Here</a> you can browse my page on github</h3>
-<h3 align="center"> Click <a href="https://github.com/geoge31/assets/blob/main/cv.pdf">here </a>to preview/donwload my cv</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/geoge31/pictures/main/TNCR-graphics-KB-2.gif" width="400" />
-</p>
+
+<div>
+  <h1 align="center">Hello 👋, I'm Giorgos</h1>
+  <h2 align="center">Graduated Student at Computer's Science Department, University of Crete</h2>
+  <h3 align="center"><a href="https://geoge31.github.io/" target="_blank" rel="noopener noreferrer">Here</a> you can browse my page on github</h3>
+  <h3 align="center"> Click <a href="https://github.com/geoge31/assets/blob/main/cv.pdf">here </a>to preview/donwload my cv</h3>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/geoge31/pictures/main/TNCR-graphics-KB-2.gif" width="400" />
+  </p>
+</div>
 
 <div>
   <h3 align="center">Connect with me:</h3>
