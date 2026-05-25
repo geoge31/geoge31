@@ -54,8 +54,8 @@
   <h4> Repos worth taking a look :</h4>
   <table>
     <tr>
-      <td><a href="https://github.com/geoge31/DiGiHip_Application">Thesis Project</a></td>
-      <td> Web app</td>
+      <td><a href="https://github.com/geoge31/digihip-app">Digihip</a></td>
+      <td>Web App</td>
     </tr>
     <tr>
       <td><a href="https://github.com/geoge31/Data-Structures/tree/main/Project_Among-Us">Among Us Game</a></td>
