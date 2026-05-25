@@ -61,6 +61,10 @@
       <td><a href="https://github.com/geoge31/Data-Structures/tree/main/Project_Among-Us">Among Us Game</a></td>
       <td>C Implementation</td>
     </tr>
+    <tr>
+      <td><a href="">DevOps</a></td>
+      <td>N/A</td>
+    </tr>
   </table>
 </div>
 
