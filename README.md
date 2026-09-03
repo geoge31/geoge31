@@ -46,6 +46,7 @@
       <td><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </td>
       <td> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </td>
       <td><a href="https://nextjs.org/" target="_blank" rel="noreferre"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" widt="40" height="40"/ ></a></td>
+      <td><a href="https://blueprism.com/" target="_blank" rel="noreferre"> <img src="https://www.blueprism.com/favicon.ico" alt="blueprism" width="40" height="40"/></a></td>
     </tr>
   </table>
 </div>
